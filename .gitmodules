@@ -1,0 +1,4 @@
+[submodule "reveal"]
+	path = reveal
+	url = https://github.com/Cara-Jo/reveal.js.git
+
